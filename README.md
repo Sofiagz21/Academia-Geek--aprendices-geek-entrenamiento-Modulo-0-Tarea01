@@ -1,4 +1,4 @@
-##Conceptos aprendidos
+## Conceptos aprendidos
 
 1. Aprendí a instalar y aprender a utilizar entornos de desarrollo, tales como Git y Visual Studio Code.
 2. Aprendí a crear y utilizar cuentas en repositorios de GitHub by GitLab
